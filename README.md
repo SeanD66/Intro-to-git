@@ -21,10 +21,17 @@ Common Terminlogies:
 </ul>
 <h2>Instructions on cloning the repository and viewing the content.</h2>
 
- 1) To clone the private repository from github into the local machine:
+ 1) Go into the repository you want to clone.
+ 2) From the repository page. Press <>Code.
+ 3) Click either HTTPS, SSH, GitHub CLI.
+ 4) In this instruction. SSH is used.
+ 5) Copy the url to clipboard
+ 6) Paste the URL in your terminal.
+
+ To clone the repository from github into the local machine:
     <pre>git clone repository-URL/repository-SSH</pre>
     
- 2) In order to view the content of the cloned repository. Go to the path where the repository is cloned(In my case it went to the Documents directory. It is where the code above was prompted.). We can type the list(ls) command to verify if the repository is cloned in the local terminal once the repository is cloned.
+  In order to view the content of the cloned repository. Go to the path where the repository is cloned(In my case it went to the Documents directory. It is where the code above was prompted.). We can type the list(ls) command to verify if the repository is cloned in the local terminal once the repository is cloned.
 
 <h2> Git commands and their syntax, and functionality.</h2>
 <table> <!--table start --> 
